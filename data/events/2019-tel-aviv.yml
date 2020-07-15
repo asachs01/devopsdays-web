@@ -42,6 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 - name: speakers
 - name: registration
+- name: program
 - name: location
 - name: contact
 - name: conduct
@@ -137,7 +138,7 @@ proposal_email: "proposals-tel-aviv-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: appsflyer
     level: organizer
-  - id: spotinst
+  - id: spotinst-before-20200201
     level: platinum
   - id: aws
     level: platinum
@@ -149,7 +150,7 @@ sponsors:
     level: gold
   - id: skywiz
     level: gold
-  - id: logz
+  - id: logz-before-20200211
     level: gold
   - id: jfrog
     level: gold
@@ -167,15 +168,25 @@ sponsors:
     level: silver
   - id: aerospike
     level: silver
-  - id: KubeMQ
+  - id: kubemq
     level: silver
   - id: minute-media
     level: silver
   - id: yotpo
     level: coffee
+  - id: microsoft
+    level: coffee
+  - id: IBM
+    level: lunch
+  - id: facebook
+    level: happy hour
+  - id: weissbeerger
+    level: happy hour
   - id: aerospike
     level: swag
   - id: jfrog
+    level: swag
+  - id: namogoo
     level: swag
   - id: statscraft
     level: community

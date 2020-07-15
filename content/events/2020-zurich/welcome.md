@@ -1,30 +1,27 @@
 +++
-Title = "devopsdays zurich 2020"
+Title = "DevOpsTuesDays Zürich 2020"
 Type = "welcome"
 aliases = ["/events/2020-zurich/"]
-Description = "devopsdays zurich 2020"
+Description = "DevOpsTuesDays Zürich 2020"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
+<div class="row">
+  <div class="alert alert-info" role="alert">
+    <h2>COVID-19</h2>
+    <p>Due to the current situation, the DevOps Days Zurich 2020 is moved to 2021.
+    <br>However, we will host the online DevOpsTuesDays in September 2020.  </p>
+  </div>
+</div>
+
 <img src="/events/2020-zurich/logo.png" style="float:center"/>
 
 <strong>
-  Harder, Better, Faster, Stronger. <br>Welcome to the fourth round of DevOpsDays 2020!
+  <br>Every Tuesday evening in September 2020 we will hold the online DevOpsTuesDays. More information will follow.
 </strong>
-
-<!--
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
--->
 
 <div class = "row">
   <div class = "col-md-12">
@@ -35,6 +32,17 @@ Description = "devopsdays zurich 2020"
   </div>
 </div>
 
+<br/>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -42,25 +50,25 @@ Description = "devopsdays zurich 2020"
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> 
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div> 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -71,14 +79,14 @@ Description = "devopsdays zurich 2020"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -95,6 +103,15 @@ Description = "devopsdays zurich 2020"
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Homepage</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://landing.devopsdays.ch/">DevOpsDays.ch</a>
   </div>
 </div>
 

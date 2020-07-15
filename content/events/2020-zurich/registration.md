@@ -1,11 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays zurich 2020"
+Description = "Registration for DevOpsTuesDays Zürich 2020"
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+<h3>No registration needed for DevOpsTuesDays Zürich 2020</h3> 
